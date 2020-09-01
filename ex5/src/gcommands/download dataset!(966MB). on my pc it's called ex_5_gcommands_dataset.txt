@@ -1,0 +1,1 @@
+download dataset!(966MB). on my pc it's called ex_5_gcommands_dataset
